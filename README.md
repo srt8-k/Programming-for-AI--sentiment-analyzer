@@ -34,7 +34,17 @@ Jupyter Notebook | Interactive development
 
 ## 📁 Project Structure
 
-
+MyAIProject/
+├── data/
+│ ├── raw/ # Original dataset (ignored in Git)
+│ └── processed/ # Exported sentiment results
+├── notebooks/
+│ └── sentiment.ipynb # Main analysis notebook
+├── src/
+│ └── sentiment.py # Sentiment functions (polarity + classifier)
+├── reports/
+├── README.md
+└── .gitignore
 ---
 
 ## 🧩 Sentiment Logic
