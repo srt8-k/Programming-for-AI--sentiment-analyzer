@@ -1,4 +1,4 @@
-# 📊 Amazon Unlocked Phones Sentiment Analyzer (TextBlob)
+# 📊 Amazon Unlocked Phones Sentiment Analyzer 
 
 This project analyzes Amazon reviews for unlocked smartphones and classifies them into **Positive**, **Neutral**, or **Negative** sentiments using **TextBlob**.  
 The goal is to explore customer opinions, visualize sentiment results, and generate insights that can help improve product reputation and customer satisfaction.
