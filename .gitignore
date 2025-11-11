@@ -1,0 +1,13 @@
+# Data
+data/raw/
+*.csv
+
+# Notebooks cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# Virtual envs
+ .venv/
+env/
